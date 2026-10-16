@@ -39,9 +39,23 @@ class ContaBancaria:
         self.__saldo -= valor
         return True
 
+    # Compatibilidade com o estilo antigo
+    def SetTitular(self, titular): self.set_titular(titular)
+    def GetTitular(self): return self.get_titular()
+    def SetNumero(self, numero): self.set_numero(numero)
+    def GetNumero(self): return self.get_numero()
+    def SetSaldo(self, saldo): self.set_saldo(saldo)
+    def GetSaldo(self): return self.get_saldo()
+
+    def __str__(self):
+        return f"Titular: {self.__titular} | Número: {self.__numero} | Saldo: R$ {self.__saldo:.2f}"
+
+    def to_string(self):
+        return str(self)
+
 
 if __name__ == "__main__":
     conta = ContaBancaria("João", "12345", 500)
     conta.depositar(200)
     conta.sacar(100)
-    print(conta.get_titular(), conta.get_numero(), conta.get_saldo())
+    print(conta)
