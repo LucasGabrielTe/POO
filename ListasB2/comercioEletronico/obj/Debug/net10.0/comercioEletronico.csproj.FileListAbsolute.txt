@@ -1,0 +1,15 @@
+/workspaces/POO/ListasB2/comercioEletronico/obj/Debug/net10.0/comercioEletronico.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/POO/ListasB2/comercioEletronico/obj/Debug/net10.0/comercioEletronico.AssemblyInfoInputs.cache
+/workspaces/POO/ListasB2/comercioEletronico/obj/Debug/net10.0/comercioEletronico.AssemblyInfo.cs
+/workspaces/POO/ListasB2/comercioEletronico/obj/Debug/net10.0/comercioEletronico.csproj.CoreCompileInputs.cache
+/workspaces/POO/ListasB2/comercioEletronico/obj/Debug/net10.0/comercioEletronico.sourcelink.json
+/workspaces/POO/ListasB2/comercioEletronico/bin/Debug/net10.0/comercioEletronico
+/workspaces/POO/ListasB2/comercioEletronico/bin/Debug/net10.0/comercioEletronico.deps.json
+/workspaces/POO/ListasB2/comercioEletronico/bin/Debug/net10.0/comercioEletronico.runtimeconfig.json
+/workspaces/POO/ListasB2/comercioEletronico/bin/Debug/net10.0/comercioEletronico.dll
+/workspaces/POO/ListasB2/comercioEletronico/bin/Debug/net10.0/comercioEletronico.pdb
+/workspaces/POO/ListasB2/comercioEletronico/obj/Debug/net10.0/comercioEletronico.dll
+/workspaces/POO/ListasB2/comercioEletronico/obj/Debug/net10.0/refint/comercioEletronico.dll
+/workspaces/POO/ListasB2/comercioEletronico/obj/Debug/net10.0/comercioEletronico.pdb
+/workspaces/POO/ListasB2/comercioEletronico/obj/Debug/net10.0/comercioEletronico.genruntimeconfig.cache
+/workspaces/POO/ListasB2/comercioEletronico/obj/Debug/net10.0/ref/comercioEletronico.dll
